@@ -3,6 +3,4 @@ Git is free software distributed under the GPL.
 Git has amutable index called stage gfff.
 Git tracks changes of files.
 Git five.
-six pro.
-seven dev.
-eight dev.
+Creating a new branch is quick AND simple.
